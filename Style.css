@@ -1,0 +1,372 @@
+body{
+    background-color: white;
+}
+.m{
+    color: #12aa00;
+}
+.select{
+    color: white;
+    background-color: #12aa00;
+    border: #12aa00;
+}
+.ss_hover:hover{
+    color: #12aa00;
+}
+.b{
+    direction: ltr;
+    color: white;
+    background-color: #12aa00;
+    border-radius: 5px 5px 5px 5px;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 15px;
+    border: 5px;
+}
+.x{
+    background-color: #12aa00;
+    direction: ltr;
+    text-align: left;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    font-size: 18px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.aa_hover:hover{
+    color: cornflowerblue;
+}
+.p{
+    font-family: "DejaVu Sans Light";
+    float: right;
+}
+.c{
+    padding-left: 25px;
+    float: right;
+}
+.h{
+    direction: ltr;
+    color: white;
+    background-color: #4d4f5b;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 15px;
+}
+.kh{
+    background-color: #4d4f5b;
+    padding-top: 1700px;
+}
+.T1{
+    float: left;
+    background-color: #4d4f5b;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.T11{
+    float: right;
+    background-color: #4d4f5b;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.T2{
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.T3{
+    padding-bottom: 10px;
+    direction: rtl;
+    background-color: #4d4f5b;
+}
+.T4{
+    padding-left: 52px;
+    padding-right: 53px;
+    padding-bottom: 10px;
+    direction: rtl;
+    background-color: #4d4f5b;
+}
+.g{
+    text-align: center;
+    background-color: white;
+    margin-top: 243px;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.ggg{
+    text-align: center;
+    background-color: white;
+    margin-top: 5px;
+}
+.left{
+    text-align: center;
+    float: left;
+}
+.Right{
+    text-align: center;
+    float: right;
+}
+.bb{
+    text-align: center;
+    direction: ltr;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 50px;
+    border: 5px;
+}
+.bbb{
+    text-align: center;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-left: 50px;
+    border: 5px;
+}
+.a{
+    font-size: 20px;
+}
+.hh{
+    text-align: center;
+    direction: ltr;
+    color: black;
+    background-color: white;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 15px;
+    border: white;
+}
+.xx{
+    direction: rtl;
+    color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.k{
+    color: white;
+    direction: ltr;
+    text-align: center;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.l{
+    align-content: center;
+}
+.sss{
+    color: white;
+}
+.sss_hover:hover{
+    color: #12aa00;
+}
+.kk{
+    text-align: center;
+}
+.j{
+    text-align: center;
+    color: white;
+    background-color: #4d4f5b;
+}
+.jj{
+    text-align: center;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px;
+}
+.sss{
+    color: white;
+}
+.sss_hover:hover{
+    color: #12aa00;
+}
+.Left_column{
+    float: left;
+    width: 17%;
+}
+.Right_column{
+    float: right;
+    width: 83%;
+}
+.bbbb{
+    text-align: left;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px;
+}
+.Try{
+    background-color: #f1f1f1;
+    float: right;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+.Try1{
+    text-align: center;
+    background-color: white;
+    float: left;
+    padding-left: 15px;
+    padding-right: 249px;
+}
+.Trycode1{
+    background-color: white;
+    padding-right: 287px;
+}
+.Trycode2{
+    background-color: white;
+    padding-right: 262px;
+}
+.Trycode3{
+    background-color: white;
+    padding-right: 226px;
+}
+.Trycode4{
+    background-color: white;
+    padding-right: 200px;
+}
+.Tag{
+    float: right;
+    background-color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.Try2{
+    text-align: center;
+    background-color: #f1f1f1;
+    float: right;
+    padding-left: 5px;
+    padding-right: 15px;
+}
+.Try3{
+    background-color: #f1f1f1;
+    float: right;
+    padding-left: 15px;
+    padding-right: 249px;
+    padding-bottom: 15px;
+}
+.Try33{
+    background-color: #f1f1f1;
+    float: right;
+    padding-left: 15px;
+    padding-right: 317px;
+    padding-bottom: 15px;
+}
+.Tag2{
+    float: right;
+    background-color: #f1f1f1;
+    padding-right: 50px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Try4{
+    background-color: #f1f1f1;
+    float: right;
+    padding-left: 15px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+}
+.Try5{
+    text-align: center;
+    background-color: white;
+    float: left;
+    padding-left: 15px;
+    padding-right: 78px;
+}
+.four{
+    float: left;
+}
+.dss{
+    text-align: center;
+    background-color: #4d4f5b;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.b2{
+    text-align: center;
+    direction: ltr;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border: 5px;
+    margin: 10px;
+}
+.b3{
+    text-align: center;
+    color: white;
+    background-color: #12aa00;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: 5px;
+    margin: 19px;
+}
+.hh{
+    text-align: center;
+    background-color: #f1f1f1;
+}
+.lk{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.mm{
+    top: 3800px;
+    position: absolute;
+    width: 80%;
+    text-align: center;
+}
+.lj{
+    text-align: center;
+    color: white;
+}
+.blue{
+    color: blue;
+}
+.brown{
+    color: brown;
+}
